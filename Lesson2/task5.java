@@ -8,7 +8,7 @@ public class task5 {
 
         for (int i = 1; i <= 20; i++) {
 
-            sum = sum + j;
+            sum = i * j;
             System.out.println(i + " дюйм = " + sum + " см");
 
         }
