@@ -35,7 +35,7 @@ public class task1 {
                 summ += array[i][j];
             }
         }
-        System.out.println("Сумма четных элементов на главное диагонали: " + summ);
+        System.out.println("Сумма четных элементов на главной диагонали: " + summ);
     }
 }
 
