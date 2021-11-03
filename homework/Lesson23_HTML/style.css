@@ -1,0 +1,15 @@
+li{
+display:inline-block;
+line-height: 2;
+margin: 0 50px;
+}
+
+ul{
+margin: -10px;
+}
+
+h2{
+color: #8FBC8F;
+font-style: italic;
+}
+
